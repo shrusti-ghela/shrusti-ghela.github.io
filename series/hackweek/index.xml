@@ -2,18 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hackweek on Hi there!</title>
-    <link>https://example.com/series/hackweek/</link>
+    <link>https://shrusti-ghela.github.io/series/hackweek/</link>
     <description>Recent content in hackweek on Hi there!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/hackweek/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shrusti-ghela.github.io/series/hackweek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Radar Scattering Prediction</title>
-      <link>https://example.com/posts/2022/07/radar-scattering-prediction/</link>
+      <link>https://shrusti-ghela.github.io/posts/2022/07/radar-scattering-prediction/</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2022/07/radar-scattering-prediction/</guid>
+      <guid>https://shrusti-ghela.github.io/posts/2022/07/radar-scattering-prediction/</guid>
+      <description>I organized SnowEx 2022 hackweek in collaboration with NASA. During the hackweek, I also worked on a project of &amp;ldquo;Radar Scattering Prediction&amp;rdquo;
+About the project This project aims to estimate the backscattering of radar from snowpits using parameters from SnowEx data such as density, temperature, grain size and height. We are also trying to understand the relationship between these input parameters and the backscatter and evaluate the parameter sensitivity. And want to explore the link between SnowEx pit measurements and input parameters of DMRT-Bic.</description>
+    </item>
+    
+    <item>
+      <title>Radar Scattering Prediction</title>
+      <link>https://shrusti-ghela.github.io/projects/project4/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project4/</guid>
       <description>I organized SnowEx 2022 hackweek in collaboration with NASA. During the hackweek, I also worked on a project of &amp;ldquo;Radar Scattering Prediction&amp;rdquo;
 About the project This project aims to estimate the backscattering of radar from snowpits using parameters from SnowEx data such as density, temperature, grain size and height. We are also trying to understand the relationship between these input parameters and the backscatter and evaluate the parameter sensitivity. And want to explore the link between SnowEx pit measurements and input parameters of DMRT-Bic.</description>
     </item>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hi there!</title>
+    <link>https://shrusti-ghela.github.io/projects/</link>
+    <description>Recent content in Projects on Hi there!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shrusti-ghela.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radar Scattering Prediction</title>
+      <link>https://shrusti-ghela.github.io/projects/project4/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project4/</guid>
+      <description>I organized SnowEx 2022 hackweek in collaboration with NASA. During the hackweek, I also worked on a project of &amp;ldquo;Radar Scattering Prediction&amp;rdquo;
+About the project This project aims to estimate the backscattering of radar from snowpits using parameters from SnowEx data such as density, temperature, grain size and height. We are also trying to understand the relationship between these input parameters and the backscatter and evaluate the parameter sensitivity. And want to explore the link between SnowEx pit measurements and input parameters of DMRT-Bic.</description>
+    </item>
+    
+    <item>
+      <title>Mind Reading using Artificial Intelligence</title>
+      <link>https://shrusti-ghela.github.io/projects/project2/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project2/</guid>
+      <description>About the project Human communication works by turning thought into motion. However, sometimes it would be really handy if we could communicate directly from our brain. Studies on brain imaging show that different spatial patterns of neural activation are associated with thinking about different semantic categories of words and so we have attempted to &amp;ldquo;Mind Read&amp;rdquo; by applying machine learning algorithms on data from functional magnetic resonance imaging (fMRI) reports to predict the category of words that a person may be thinking of.</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Visitor Forecasting</title>
+      <link>https://shrusti-ghela.github.io/projects/project6/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project6/</guid>
+      <description>About the project La	Pino’z	Pizza	is	India’s	fastest	growing	and	the	most	popular	Pizza	chain.	The	first	pizzeria	opened	up	in	Chandigarh	in	2011	and	now	there	are	more	than	350	outlets	across	India.	A	few	of	these	outlets	belong	to	my	father.	Even	though	this	is	a	very	up	and	coming,	new	generation	Pizza	place	in	India,	I	have	seen	first	hand	how	the	business	works	- the	same	old	traditional	way.</description>
+    </item>
+    
+    <item>
+      <title>The Pac-Man Projects</title>
+      <link>https://shrusti-ghela.github.io/projects/project5/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project5/</guid>
+      <description>About the projects The Pac-Man projects were developed for UC Berkeley&amp;rsquo;s introductory artificial intelligence course, CS 188. They apply an array of AI techniques to playing Pac-Man. They teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
+Why did I work on these projects? The projects allowed me to visualize the results of the techniques they implement.</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of News Articles</title>
+      <link>https://shrusti-ghela.github.io/projects/project3/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project3/</guid>
+      <description>About the project Social media is a real world phenomenon of the saying &amp;ldquo;If the tree falls on the ground and no one is around to hear it, does it make a sound?&amp;rdquo; Mashable, an independent news platform, is a part of this social media world providing the latest news articles on digital culture, social media and technology. However, not every new article is a hit, and our group aims to find what makes an article popular by analyzing various factors related to the article.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning Approaches for Dimensionality Reduction and Data Visualization</title>
+      <link>https://shrusti-ghela.github.io/projects/project1/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project1/</guid>
+      <description>Why this book was written? Dimensionality reduction is a mainstay of modern data analysis - a black box that is widely used but sometimes poorly understood. I, along with my co-authors, Dr. Tripathy and Anveshritha aim to dispel the magic behind this blackbox. This book focuses on building a solid intuition for how and why Unsupervised learning algorithms work for Dimensionality reduction. We attempted to crystallize this knowledge by deriving from simple intuitions, the mathematics behind all the algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on Hi there!</title>
-    <link>https://example.com/series/book/</link>
+    <link>https://shrusti-ghela.github.io/series/book/</link>
     <description>Recent content in Book on Hi there!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shrusti-ghela.github.io/series/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unsupervised Learning Approaches for Dimensionality Reduction and Data Visualization</title>
-      <link>https://example.com/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</link>
+      <link>https://shrusti-ghela.github.io/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</guid>
+      <guid>https://shrusti-ghela.github.io/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</guid>
+      <description>Why this book was written? Dimensionality reduction is a mainstay of modern data analysis - a black box that is widely used but sometimes poorly understood. I, along with my co-authors, Dr. Tripathy and Anveshritha aim to dispel the magic behind this blackbox. This book focuses on building a solid intuition for how and why Unsupervised learning algorithms work for Dimensionality reduction. We attempted to crystallize this knowledge by deriving from simple intuitions, the mathematics behind all the algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning Approaches for Dimensionality Reduction and Data Visualization</title>
+      <link>https://shrusti-ghela.github.io/projects/project1/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shrusti-ghela.github.io/projects/project1/</guid>
       <description>Why this book was written? Dimensionality reduction is a mainstay of modern data analysis - a black box that is widely used but sometimes poorly understood. I, along with my co-authors, Dr. Tripathy and Anveshritha aim to dispel the magic behind this blackbox. This book focuses on building a solid intuition for how and why Unsupervised learning algorithms work for Dimensionality reduction. We attempted to crystallize this knowledge by deriving from simple intuitions, the mathematics behind all the algorithms.</description>
     </item>
     

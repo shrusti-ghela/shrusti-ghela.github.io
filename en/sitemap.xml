@@ -2,87 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/2022/07/radar-scattering-prediction/</loc>
+    <loc>https://shrusti-ghela.github.io/posts/2022/07/radar-scattering-prediction/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2022/06/mind-reading-using-artificial-intelligence/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/project4/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/posts/2022/06/mind-reading-using-artificial-intelligence/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2022/06/restaurant-visitor-forecasting/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/project2/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/posts/2022/06/restaurant-visitor-forecasting/</loc>
     <lastmod>2022-06-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2022/05/the-pac-man-projects/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/project6/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/posts/2022/05/the-pac-man-projects/</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2022/03/statistical-analysis-of-news-articles/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/project5/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/posts/2022/03/statistical-analysis-of-news-articles/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/project3/</loc>
+    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/hackweek/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/project1/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/series/hackweek/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://shrusti-ghela.github.io/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://shrusti-ghela.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://shrusti-ghela.github.io/"
                 />
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://shrusti-ghela.github.io/posts/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/projects/</loc>
+    <loc>https://shrusti-ghela.github.io/series/projects/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://shrusti-ghela.github.io/projects/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shrusti-ghela.github.io/series/</loc>
     <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/series/"
+                href="https://shrusti-ghela.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/series/"
+                href="https://shrusti-ghela.github.io/series/"
                 />
   </url><url>
-    <loc>https://example.com/series/book/</loc>
+    <loc>https://shrusti-ghela.github.io/series/book/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://shrusti-ghela.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://shrusti-ghela.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://shrusti-ghela.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://shrusti-ghela.github.io/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://shrusti-ghela.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://shrusti-ghela.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://shrusti-ghela.github.io/tags/"
                 />
   </url>
 </urlset>
