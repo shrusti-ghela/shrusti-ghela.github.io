@@ -1,0 +1,129 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hi there!</title>
+        <link>https://example.com/posts/</link>
+        <description>Recent content in Posts on Hi there!</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Radar Scattering Prediction</title>
+            <link>https://example.com/posts/2022/07/radar-scattering-prediction/</link>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/2022/07/radar-scattering-prediction/</guid>
+            <description>I organized SnowEx 2022 hackweek in collaboration with NASA. During the hackweek, I also worked on a project of &amp;ldquo;Radar Scattering Prediction&amp;rdquo;
+About the project This project aims to estimate the backscattering of radar from snowpits using parameters from SnowEx data such as density, temperature, grain size and height. We are also trying to understand the relationship between these input parameters and the backscatter and evaluate the parameter sensitivity. And want to explore the link between SnowEx pit measurements and input parameters of DMRT-Bic.</description>
+            <content type="html"><![CDATA[<p>I organized SnowEx 2022 hackweek in collaboration with NASA. During the hackweek, I also worked on a project of &ldquo;Radar Scattering Prediction&rdquo;</p>
+<h3 id="about-the-project">About the project</h3>
+<p>This project aims to estimate the backscattering of radar from snowpits using parameters from SnowEx data such as density, temperature, grain size and height. We are also trying to understand the relationship between these input parameters and the backscatter and evaluate the parameter sensitivity. And want to explore the link between SnowEx pit measurements and input parameters of DMRT-Bic. Another cool thing would be to see if there is a correlation between the SWE and the amplitudes.</p>
+<h3 id="why-did-we-work-on-this-project">Why did we work on this project?</h3>
+<p>Currently, we know that there is backscatter when a radar is directed towards snow but we do not know what variables of the snow actually have an impact on this backscatter and how much impact each of these parameters have on it. This is is the problem we are trying to solve using Machine Learning. In the broader context, the inference of the relationship between input parameters and the amplitude can help us calibrate current sensor tools and also to be used to reverse engineer when the satellites are up in the air.</p>
+<p><em>Read about my experience of organizing this hackweek <a href="https://shrustighela.medium.com/snowex-hackweek-2022-717e738ff495">here</a> and if this project is of interest to you too, follow this <a href="https://github.com/shrusti-ghela/radar_prediction">link</a> to read more about the project or just get the code!</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Mind Reading using Artificial Intelligence</title>
+            <link>https://example.com/posts/2022/06/mind-reading-using-artificial-intelligence/</link>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/2022/06/mind-reading-using-artificial-intelligence/</guid>
+            <description>About the project Human communication works by turning thought into motion. However, sometimes it would be really handy if we could communicate directly from our brain. Studies on brain imaging show that different spatial patterns of neural activation are associated with thinking about different semantic categories of words and so we have attempted to &amp;ldquo;Mind Read&amp;rdquo; by applying machine learning algorithms on data from functional magnetic resonance imaging (fMRI) reports to predict the category of words that a person may be thinking of.</description>
+            <content type="html"><![CDATA[<h3 id="about-the-project">About the project</h3>
+<p>Human communication works by turning thought into motion. However, sometimes it would be really handy if we could communicate directly from our brain. Studies on brain imaging show that different spatial patterns of neural activation are associated with thinking about different semantic categories of words and so we have attempted to &ldquo;Mind Read&rdquo; by applying machine learning algorithms on data from functional magnetic resonance imaging (fMRI) reports to predict the category of words that a person may be thinking of.</p>
+<h3 id="why-did-we-work-on-this-project">Why did we work on this project?</h3>
+<p>The brain has been a mystery for generations. The authors of the project have  always been curious to understand how the human brain works, how it perceives  images and other senses and how it functions so wonderfully. Now finally, we are  in an age where we can understand the underlying functioning of the neural structures  within the brain and make an attempt to piece together why humans respond to  situations the way they do. I and my project partner, Anuhya are from a Computer Science Background  and the science of the brain has awed us. This project gives us an opportunity  to combine our area of study (Artificial Intelligence) to our area of interest  (Neuroscience) and this is our main motivation behind taking up this project.</p>
+<p><em>If this is of interest to you too, follow this <a href="https://github.com/shrusti-ghela/Mind-Reading-with-AI">link</a> to read more about the project or just get the code!</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Restaurant Visitor Forecasting</title>
+            <link>https://example.com/posts/2022/06/restaurant-visitor-forecasting/</link>
+            <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/2022/06/restaurant-visitor-forecasting/</guid>
+            <description>About the project La	Pino’z	Pizza	is	India’s	fastest	growing	and	the	most	popular	Pizza	chain.	The	first	pizzeria	opened	up	in	Chandigarh	in	2011	and	now	there	are	more	than	350	outlets	across	India.	A	few	of	these	outlets	belong	to	my	father.	Even	though	this	is	a	very	up	and	coming,	new	generation	Pizza	place	in	India,	I	have	seen	first	hand	how	the	business	works	- the	same	old	traditional	way.</description>
+            <content type="html"><![CDATA[<h3 id="about-the-project">About the project</h3>
+<p>La	Pino’z	Pizza	is	India’s	fastest	growing	and	the	most	popular	Pizza	chain.	The	first	 pizzeria	opened	up	in	Chandigarh	in	2011	and	now	there	are	more	than	350	outlets	across	 India.	A	few	of	these	outlets	belong	to	my	father.	Even	though	this	is	a	very	up	and	coming,	 new	generation	Pizza	place	in	India,	I	have	seen	first	hand	how	the	business	works	- the	 same	old	traditional	way.	This	project	is	motivated	out	of	personal	curiosity	and	a	desire	to	suggest	that	these	businesses	can	profit	a	lot	more	if	they	analyze	the	data	that	is	generated	on	a	daily	basis	and	use	the	insights	from	this	analysis	in	a	fruitful	way.	“Currently,	few	 restaurants	use	R	or	any	other	readily	available	statistical	software	to	analyze	their	data.	 Instead	many	use	subscriptions	to	services	that	may	preform	basic	analysis	such	as	averaging	and	then	display	that	information	in	basic,	though	visually	appealing	 visualizations.”	This	is	exactly	what	I	wanted	to	fix	by	the	medium	of	this	project.</p>
+<p>Two	of	the	most	important	aspects	in	functioning	of	any	restaurant	is	number	of	visitors	and	total	sales. Forecasting	the	sales	and	number	of	visitors	is	an	essential	component	in	 the	decision-making	process	for	the	owners	of	these	restaurants.	For	this	reason,	I	tried	to	investigate	the	performance of	the	sales	and	visitors	for	2	different	restaurants	of	the	same	La	Pino’z	franchise.	This project	aims	at	analyzing	the	time	series	models	of	sales	for	at	least	2	 restaurants	and	number	of	visitors	for	at	least	2	restaurants.</p>
+<h3 id="why-did-i-work-on-this-project">Why did I work on this project?</h3>
+<p>I	am	interested	in	this	project	because	I	have	seen	this	business	function	very	first	hand	 and	if	by	the	concepts	learnt	during my time at UW,	there	is	something	that	I	could	add	to	it	that	helps	 the	business	grow,	I	would	be	happy	to	help	my	family	business.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>The Pac-Man Projects</title>
+            <link>https://example.com/posts/2022/05/the-pac-man-projects/</link>
+            <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/2022/05/the-pac-man-projects/</guid>
+            <description>About the projects The Pac-Man projects were developed for UC Berkeley&amp;rsquo;s introductory artificial intelligence course, CS 188. They apply an array of AI techniques to playing Pac-Man. They teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
+Why did I work on these projects? The projects allowed me to visualize the results of the techniques they implement.</description>
+            <content type="html"><![CDATA[<p><img src="/pacman.gif" alt=""></p>
+<h3 id="about-the-projects">About the projects</h3>
+<p>The Pac-Man projects were developed for UC Berkeley&rsquo;s introductory artificial intelligence course, CS 188. They apply an array of AI techniques to playing Pac-Man. They teach foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.</p>
+<h3 id="why-did-i-work-on-these-projects">Why did I work on these projects?</h3>
+<p>The projects allowed me to visualize the results of the techniques they implement. They also contain code examples and clear directions, but do not force me to wade through undue amounts of scaffolding. Finally, Pac-Man provides a challenging problem environment that demands creative solutions; real-world AI problems are challenging, and Pac-Man is too.</p>
+<h3 id="project-1-search">Project 1: Search</h3>
+<p>I implemented depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.</p>
+<p><em><a href="https://github.com/shrusti-ghela/CSE573-pacman-project-search">link to the code</a></em></p>
+<h3 id="project-2-multi-agent-search">Project 2: Multi-Agent Search</h3>
+<p>Classic Pacman is modeled as both an adversarial and a stochastic search problem. I implemented multiagent minimax and expectimax algorithms, as well as designed evaluation functions.</p>
+<p><em><a href="https://github.com/shrusti-ghela/CSE573-pacman-project-multiagent-search">link to the code</a></em></p>
+<h3 id="project-3-reinforcement-learning">Project 3: Reinforcement Learning</h3>
+<p>I implemented value iteration and Q-learning. And tested the agents first on Gridworld (from class), then applied them to a simulated robot controller (Crawler) and Pacman.</p>
+<p><em><a href="https://github.com/shrusti-ghela/CSE573-project-MDPs-and-RL">link to the code</a></em></p>
+<h3 id="project-4-machine-learning">Project 4: Machine Learning</h3>
+<p>This project was an introduction to Machine Learning problems like digit classification, language identification, and algorithms like perceptron, non-linear regression.</p>
+<p><em><a href="https://github.com/shrusti-ghela/CSE573-project-ML">link to the code</a></em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Statistical Analysis of News Articles</title>
+            <link>https://example.com/posts/2022/03/statistical-analysis-of-news-articles/</link>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/2022/03/statistical-analysis-of-news-articles/</guid>
+            <description>About the project Social media is a real world phenomenon of the saying &amp;ldquo;If the tree falls on the ground and no one is around to hear it, does it make a sound?&amp;rdquo; Mashable, an independent news platform, is a part of this social media world providing the latest news articles on digital culture, social media and technology. However, not every new article is a hit, and our group aims to find what makes an article popular by analyzing various factors related to the article.</description>
+            <content type="html"><![CDATA[<h3 id="about-the-project">About the project</h3>
+<p>Social media is a real world phenomenon of the saying &ldquo;If the tree falls on the ground and no one is around to hear it, does it make a sound?&rdquo; Mashable, an independent news platform, is a part of this social media world providing the latest news articles on digital culture, social media and technology. However, not every new article is a hit, and our group aims to find what makes an article popular by analyzing various factors related to the article.</p>
+<h3 id="why-did-we-work-on-this-project">Why did we work on this project?</h3>
+<p>As news and media shifts online, it provides us with an opportunity to ask and answer questions about readers  and publishers, thanks to the data trail it leaves behind. This analysis can shed some light on how  individuals consume online news, what are the various factors that affect their engagement with it and how  have news publishers like NYT and Mashable have evolved over time to keep their audience engaged.</p>
+<p><em>If this is of interest to you too, follow this <a href="https://github.com/shrusti-ghela/news-popularity-project">link</a> to read more about the project or just get the code!</em></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Unsupervised Learning Approaches for Dimensionality Reduction and Data Visualization</title>
+            <link>https://example.com/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</link>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://example.com/posts/2021/09/unsupervised-learning-approaches-for-dimensionality-reduction-and-data-visualization/</guid>
+            <description>Why this book was written? Dimensionality reduction is a mainstay of modern data analysis - a black box that is widely used but sometimes poorly understood. I, along with my co-authors, Dr. Tripathy and Anveshritha aim to dispel the magic behind this blackbox. This book focuses on building a solid intuition for how and why Unsupervised learning algorithms work for Dimensionality reduction. We attempted to crystallize this knowledge by deriving from simple intuitions, the mathematics behind all the algorithms.</description>
+            <content type="html"><![CDATA[<p><img src="/book.jpeg" alt=""></p>
+<h3 id="why-this-book-was-written">Why this book was written?</h3>
+<p>Dimensionality reduction is a mainstay of modern data analysis - a black box that is widely used but sometimes poorly understood. I, along with my co-authors, Dr. Tripathy and Anveshritha aim to dispel the magic behind this blackbox. This book focuses on building a solid intuition for how and why Unsupervised learning algorithms work for Dimensionality reduction. We attempted to crystallize this knowledge by deriving from simple intuitions, the mathematics behind all the algorithms.</p>
+<h3 id="about-the-book">About the book</h3>
+<p>Unsupervised Learning Approaches for Dimensionality Reduction and Data Visualization describes such algorithms as Locally Linear Embedding (LLE), Laplacian Eigenmaps, Isomap, Semidefinite Embedding, and t-SNE to resolve the problem of dimensionality reduction in the case of non-linear relationships within the data. Underlying mathematical concepts, derivations, and proofs with logical explanations for these algorithms are discussed, including strengths and limitations. The book highlights important use cases of these algorithms and provides examples along with visualizations. Comparative study of the algorithms is presented to give a clear idea on selecting the best suitable algorithm for a given dataset for efficient dimensionality reduction and data visualization.</p>
+<h3 id="features-of-the-book">Features of the book</h3>
+<ul>
+<li>Demonstrates how unsupervised learning approaches can be used for dimensionality reduction</li>
+<li>Neatly explains algorithms with a focus on the fundamentals and underlying mathematical concepts</li>
+<li>Describes the comparative study of the algorithms and discusses when and where each algorithm is best suitable for use</li>
+<li>Provides use cases, illustrative examples, and visualizations of each algorithm</li>
+<li>Helps visualize and create compact representations of high dimensional and intricate data for various real-world applications and data analysis</li>
+</ul>
+<h3 id="who-should-read-this-book">Who should read this book?</h3>
+<p>This book is aimed at professionals, graduate students, and researchers in Computer Science and Engineering, Data Science, Machine Learning, Computer Vision, Data Mining, Deep Learning, Sensor Data Filtering, Feature Extraction for Control Systems, and Medical Instruments Input Extraction.</p>
+<p><em>If you are interested in learning more about these concepts, buy it from <a href="https://www.routledge.com/Unsupervised-Learning-Approaches-for-Dimensionality-Reduction-and-Data/Tripathy-Sundareswaran-Ghela/p/book/9781032041018">here</a> or get it from <a href="https://www.amazon.com/Unsupervised-Approaches-Dimensionality-Reduction-Visualization/dp/1032041013/ref=sr_1_2?crid=11M4IASRIBSC5&amp;keywords=unsupervised+learning+approaches&amp;qid=1658867245&amp;sprefix=unsupervised+learning+approahces%2Caps%2C181&amp;sr=8-2">Amazon</a>.</em></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
